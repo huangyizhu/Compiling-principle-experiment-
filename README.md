@@ -3,4 +3,4 @@
 
 
 DFA: 原理图
-![image](https://github.com/huangyizhu/Compiling-principle-experiment-/image/1.png)
+![image](image/1.png)
